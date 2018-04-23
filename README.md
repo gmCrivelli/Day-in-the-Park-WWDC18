@@ -1,6 +1,6 @@
 # Day-in-the-Park-WWDC18
 
-My submission for the WWDC18 Scholarship! 
+My accepted submission for the WWDC18 Scholarship! 
 
 The idea was to create a short, fun Playground Book with a "children's book" feel.
 
